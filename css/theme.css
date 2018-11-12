@@ -25,12 +25,14 @@
       width: 100%; }
       #header #teamcreatif #menu .trigger.trigger-x span:after {
         width: 75%;
-        height: 2px; }
+        height: 2px;
+        bottom: -9px; }
       #header #teamcreatif #menu .trigger.trigger-x span:before {
         top: -9px;
         height: 2px; }
     #header #teamcreatif #menu .trigger.trigger-x.active span:after {
-      top: 0; }
+      top: 0;
+      width: 100%; }
     #header #teamcreatif #menu .trigger.trigger-x.active span:before {
       top: 0; }
   #header #teamcreatif a img {
