@@ -20,8 +20,22 @@
 
 #teamcreatif {
 	width: 100%;
-	.trigger.trigger-x{
-		float: right !important;
+	#header #menu .trigger.trigger-x{
+		float: right;
+		width: 30px;
+		height: 30px;
+		span{
+			height: 2px;
+		    width: 100%;
+			&:after{
+				width: 75%;
+				height: 1px;
+			}
+			&:before{
+			    top: -9px;
+			    height: 2px;
+			}
+		}
 	}
 	img{
 		height: 30px;
