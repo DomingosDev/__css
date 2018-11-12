@@ -21,6 +21,9 @@
 #teamcreatif {
 	width: 100%;
 	.trigger.trigger-x{
-		float: right;
+		float: right !important;
+	}
+	img{
+		height: 30px;
 	}
 }

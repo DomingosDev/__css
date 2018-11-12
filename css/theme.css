@@ -17,4 +17,6 @@
 #teamcreatif {
   width: 100%; }
   #teamcreatif .trigger.trigger-x {
-    float: right; }
+    float: right !important; }
+  #teamcreatif img {
+    height: 30px; }
