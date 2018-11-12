@@ -6,3 +6,13 @@
 	height: 100%;
 	background: url(../img/noise.png) rgba(0,0,0,0.4);
 }
+
+#view-slider .swiper-container .swiper-slide video{
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+#view-slider .swiper-container .swiper-slide{
+	overflow: hidden;
+}
