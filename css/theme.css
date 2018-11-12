@@ -29,5 +29,9 @@
       #header #teamcreatif #menu .trigger.trigger-x span:before {
         top: -9px;
         height: 2px; }
+    #header #teamcreatif #menu .trigger.trigger-x.active span:after {
+      top: 0; }
+    #header #teamcreatif #menu .trigger.trigger-x.active span:before {
+      top: 0; }
   #header #teamcreatif a img {
     height: 30px; }

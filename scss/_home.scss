@@ -35,6 +35,16 @@
 			    height: 2px;
 			}
 		}
+		&.active{
+			span{
+				&:after{
+					top: 0;
+				}
+				&:before{
+					top: 0;
+				}
+			}
+		}
 	}
 	a img{
 		height: 30px;
