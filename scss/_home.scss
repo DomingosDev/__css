@@ -17,10 +17,9 @@
 	overflow: hidden;
 }
 
-
-#teamcreatif {
+#header #teamcreatif {
 	width: 100%;
-	#header #menu .trigger.trigger-x{
+	 #menu .trigger.trigger-x{
 		float: right;
 		width: 30px;
 		height: 30px;
@@ -37,7 +36,7 @@
 			}
 		}
 	}
-	img{
+	a img{
 		height: 30px;
 	}
 }

@@ -14,20 +14,20 @@
 #view-slider .swiper-container .swiper-slide {
   overflow: hidden; }
 
-#teamcreatif {
+#header #teamcreatif {
   width: 100%; }
-  #teamcreatif #header #menu .trigger.trigger-x {
+  #header #teamcreatif #menu .trigger.trigger-x {
     float: right;
     width: 30px;
     height: 30px; }
-    #teamcreatif #header #menu .trigger.trigger-x span {
+    #header #teamcreatif #menu .trigger.trigger-x span {
       height: 2px;
       width: 100%; }
-      #teamcreatif #header #menu .trigger.trigger-x span:after {
+      #header #teamcreatif #menu .trigger.trigger-x span:after {
         width: 75%;
         height: 1px; }
-      #teamcreatif #header #menu .trigger.trigger-x span:before {
+      #header #teamcreatif #menu .trigger.trigger-x span:before {
         top: -9px;
         height: 2px; }
-  #teamcreatif img {
+  #header #teamcreatif a img {
     height: 30px; }
